@@ -1,7 +1,7 @@
 httperf 0.9.1 for OS X
 ========================
 
-This project build a standard OS X installer package for [httperf][1], a tool 
+This project builds a standard OS X installer package for [httperf][1], a tool 
 for measuring web server performance. It contains the source distribution for 
 httperf 0.9.1.
 
